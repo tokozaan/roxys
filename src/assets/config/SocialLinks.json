@@ -1,0 +1,32 @@
+[
+    {
+      "socialsite": "LinkedIn",
+      "used": true,
+      "url": "https://www.linkedin.com/in/herman-nel-92b1bb82/",
+      "faIcon": "fa-brands fa-linkedin"
+    },
+    {
+        "socialsite": "Meta",
+        "used": true,
+        "url": "",
+        "faIcon": "fa-brands fa-meta"
+    },
+    {
+        "socialsite": "Instagram",
+        "used": true,
+        "url": "",
+        "faIcon": "fa-brands fa-instagram"
+    },
+    {
+      "socialsite": "Youtube",
+      "used": true,
+      "url": "https://www.youtube.com/channel/UCFBQRz0BV8nBm4GgZ9_VNuw",
+        "faIcon": "fa-brands fa-youtube"
+    },
+    {
+      "socialsite": "X",
+      "used": true,
+      "url": "https://x.com/Tokozaan",
+        "faIcon": "fa-brands fa-x-twitter"
+    }
+]

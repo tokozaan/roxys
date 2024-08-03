@@ -1,0 +1,17 @@
+{
+"MainConfigData": [
+    {
+    "configItem": "SiteName",
+    "value": "tokozaan"
+    },
+    {
+    "configItem": "contactNumber",
+    "value": "+447554310735"
+    },
+    {
+    "configItem": "contactEmail",
+    "value": "harry@tokozaan.co.uk"
+    }
+]
+}
+

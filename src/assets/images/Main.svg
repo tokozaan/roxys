@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="297mm"
+   viewBox="0 0 297 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Main.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.40043841"
+     inkscape:cx="-2468.5444"
+     inkscape:cy="-86.155571"
+     inkscape:window-width="5120"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000000;stroke-width:9.34973;stroke-linejoin:round"
+       id="path846"
+       cx="148.5"
+       cy="148.5"
+       r="148.5" />
+    <circle
+       style="fill:#999999;stroke-width:8.41476;stroke-linejoin:round"
+       id="path846-9"
+       cx="148.5"
+       cy="148.5"
+       r="133.64999" />
+    <g
+       id="g12358"
+       transform="translate(9.9060059e-5,-6.4572203)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:271.237px;line-height:1.25;font-family:'Modern No. 20';-inkscape-font-specification:'Modern No. 20, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.78099"
+         x="62.789009"
+         y="231.74075"
+         id="text4281"><tspan
+           sodipodi:role="line"
+           id="tspan4279"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Modern No. 20';-inkscape-font-specification:'Modern No. 20, ';stroke-width:6.78099"
+           x="62.789009"
+           y="231.74075">T</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.124px;line-height:1.25;font-family:'Modern No. 20';-inkscape-font-specification:'Modern No. 20, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.728102"
+         x="71.248711"
+         y="252.85944"
+         id="text4281-2"><tspan
+           sodipodi:role="line"
+           id="tspan4279-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Modern No. 20';-inkscape-font-specification:'Modern No. 20, ';stroke-width:0.728102"
+           x="71.248711"
+           y="252.85944">TOKOZAAN</tspan></text>
+    </g>
+  </g>
+</svg>

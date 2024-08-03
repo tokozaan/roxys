@@ -1,0 +1,12 @@
+<div class="toolbar" role="banner">
+    <span id="spanHello">{{siteNameValue}}</span>
+    <div class="spacer"></div>
+    <a class="socialsAnchor" *ngFor="let social of socials"
+      target="_blank"
+      rel="noopener"
+      title="{{social.socialsite}}"
+      href="{{social.url}}"
+    >
+    <i class="{{social.faIcon}}"></i>    
+    </a>
+  </div>
